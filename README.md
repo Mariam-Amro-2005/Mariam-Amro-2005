@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mariam Seif!
 
 🎓 Computer Science student at Cairo University  
-💻 Passionate about **Frontend Development** and **Data Analysis**  
+💻 Passionate about **Frontend Development** and **Data Analysis** and **AI**
 🛡️ Curious about **Cybersecurity**
 
 ## 🚀 Currently working on:
