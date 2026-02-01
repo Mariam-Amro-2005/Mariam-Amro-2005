@@ -1,18 +1,26 @@
 # 👋 Hi there, I'm Mariam Seif!
 
-🎓 Computer Science student at Cairo University  
-💻 Passionate about **Frontend Development** and **Data Analysis** and **AI**
+
+🎓 Computer Science student at Cairo University
+
+💻 Passionate about **AI & Machine Learning**, **Data Analysis**, and **Full-Stack Development**
+
 🛡️ Curious about **Cybersecurity**
 
+
 ## 🚀 Currently working on:
-- React-based UI projects
-- DataCamp's **Associate Data Analyst** track (pandas, NumPy, data manipulation)
-- Learning secure development practices and exploring basic cybersecurity concepts
+
+* Developing **AI & ML projects** using Python, PyTorch, and Scikit-learn
+* Building **full-stack web apps** with React, TypeScript, Spring Boot, and Django
+* Exploring secure development practices and basic cybersecurity concepts
+
 
 ## 💡 Interests:
-- Frontend architecture & component design
-- Clean code & usability
-- Real-world data and security-aware development
+
+* **Machine Learning & Deep Learning** for real-world applications
+* **Frontend architecture & component design**
+* **Clean, maintainable code** and usability
+* **Data-driven solutions** and security-aware development
 
 
 # 💻 Tech Stack:
